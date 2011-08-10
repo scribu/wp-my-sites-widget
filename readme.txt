@@ -9,6 +9,6 @@ A widget that displays a list of sites that the current user has access to.
 
 == Description ==
 
-The admin bar has a menu item called My Sites. If you're not a big fan of the admin bar on the front-end, try this widget instead.
+On a multisite installation, the admin bar has a menu item called My Sites.
 
-If the user is not logged in, he won't see the widget at all.
+If you're not a big fan of the admin bar on the front-end, try this widget instead. If the user is not logged in, he won't see the widget at all.
