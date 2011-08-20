@@ -5,6 +5,7 @@ Plugin Name: My Sites Widget
 Description: A widget that displays a list of sites that the current user has access to.
 Author: AppThemes
 Author URI: http://appthemes.com
+Plugin URI: http://wordpress.org/extend/plugins/my-sites-widget/
 Version: 1.0
 */
 
